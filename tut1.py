@@ -1,3 +1,6 @@
-print(" the food at zomato was very good")
-print("hello world")
+var = input("are you hungry?")
+if var  == "yes":
+    print("eat samosa.")
+else:
+    print("do your homework.")
 
